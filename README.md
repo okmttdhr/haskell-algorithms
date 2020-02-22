@@ -77,7 +77,7 @@ This repository contains Haskell based examples of algorithms and data structure
 
 - [Bubble Sort](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/sorting/bubble-sort.hs)
 - [Selection Sort](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/sorting/selection-sort.hs)
-- Insertion Sort
+- [Insertion Sort](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/sorting/insertion-sort.hs)
 - Heap Sort
 - [Merge Sort](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/sorting/merge-sort.hs)
 - [Quick Sort](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/sorting/quick-sort.hs)

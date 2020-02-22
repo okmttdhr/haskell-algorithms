@@ -1,4 +1,4 @@
-merge :: (Ord a) => [a] -> [a] -> [a]
+merge :: Ord a => [a] -> [a] -> [a]
 merge [] xs = xs
 merge xs [] = xs
 merge (x:xs) (y:ys)
@@ -9,7 +9,7 @@ half :: [a] -> ([a], [a])
 half xs = (take n xs, drop n xs)
   where n = length xs `div` 2 
 
-mergeSort :: (Ord a) => [a] -> [a]
+mergeSort :: Ord a => [a] -> [a]
 mergeSort xs 
   | length xs < 2 = xs
   | otherwise     = merge (mergeSort ls) (mergeSort rs)
