@@ -3,6 +3,29 @@
 
 This repository contains Haskell based examples of algorithms and data structures. (Inspired by [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)).
 
+
+## Table of Contents
+
+- [haskell-algorithms](#haskell-algorithms)
+  - [Table of Contents](#table-of-contents)
+  - [Data Structures](#data-structures)
+  - [Math](#math)
+  - [Sets](#sets)
+  - [Strings](#strings)
+  - [Searches](#searches)
+  - [Sorting](#sorting)
+  - [Linked Lists](#linked-lists)
+  - [Trees](#trees)
+  - [Graphs](#graphs)
+  - [Cryptography](#cryptography)
+  - [Machine Learning](#machine-learning)
+  - [Brute Force](#brute-force)
+  - [Greedy](#greedy)
+  - [Divide and Conquer](#divide-and-conquer)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Backtracking](#backtracking)
+  - [Uncategorized](#uncategorized)
+
 ## Data Structures
 
 - Linked List
