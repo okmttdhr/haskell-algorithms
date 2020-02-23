@@ -1,12 +1,12 @@
 
-# haskell-algorithms
+# Haskell Algorithms
 
 This repository contains Haskell based examples of algorithms and data structures. (Inspired by [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)).
 
 
 ## Table of Contents
 
-- [haskell-algorithms](#haskell-algorithms)
+- [Haskell Algorithms](#haskell-algorithms)
   - [Table of Contents](#table-of-contents)
   - [Data Structures](#data-structures)
   - [Math](#math)
@@ -25,6 +25,7 @@ This repository contains Haskell based examples of algorithms and data structure
   - [Dynamic Programming](#dynamic-programming)
   - [Backtracking](#backtracking)
   - [Uncategorized](#uncategorized)
+
 
 ## Data Structures
 
@@ -101,7 +102,7 @@ This repository contains Haskell based examples of algorithms and data structure
 - [Bubble Sort](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/sorting/bubble-sort.hs)
 - [Selection Sort](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/sorting/selection-sort.hs)
 - [Insertion Sort](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/sorting/insertion-sort.hs)
-- Heap Sort
+- [Heap Sort](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/sorting/heap-sort.hs)
 - [Merge Sort](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/sorting/merge-sort.hs)
 - [Quick Sort](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/sorting/quick-sort.hs)
 - Shell Sort
