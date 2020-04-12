@@ -77,7 +77,7 @@ This repository contains Haskell based examples of algorithms and data structure
 - Longest Increasing Subsequence
 - Shortest Common Supersequence
 - Knapsack Problem
-- Maximum Subarray
+- [Maximum Subarray](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/sets/maximum-subarray.hs)
 - Combination Sum
 
 ## Strings
