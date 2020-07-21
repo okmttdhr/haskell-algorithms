@@ -51,7 +51,7 @@ This repository contains Haskell based examples of algorithms and data structure
 
 - Bit Manipulation
 - Factorial
-- Fibonacci Number
+- [Fibonacci Number](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/math/fibonacci-number.hs)
 - Primality Test
 - Euclidean Algorithm
 - Least Common Multiple
