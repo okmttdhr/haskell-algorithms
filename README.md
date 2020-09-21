@@ -29,7 +29,7 @@ This repository contains Haskell based examples of algorithms and data structure
 
 ## Data Structures
 
-- Linked List
+- [Linked List](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/data-structures/linked-list.hs)
 - Doubly Linked List
 - Queue
 - Stack
