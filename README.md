@@ -33,7 +33,7 @@ This repository contains Haskell based examples of algorithms and data structure
 - [Doubly Linked List](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/data-structures/doubly-linked-list.hs)
 - [Queue](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/data-structures/queue.hs)
 - [Stack](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/data-structures/stack.hs)
-- Hash Table
+- [Hash Table](https://github.com/okmttdhr/haskell-algorithms/blob/master/src/data-structures/hash-table.hs)
 - Heap
 - Priority Queue
 - Trie
