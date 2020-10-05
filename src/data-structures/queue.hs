@@ -1,6 +1,6 @@
 import Data.Maybe
 
-data Queue a = Queue [a] deriving (Show)
+data Queue a = Queue [a] deriving Show
 
 -- push 2 (Queue [1])
 -- => Queue [1,2]
